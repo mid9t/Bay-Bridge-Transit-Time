@@ -11,10 +11,10 @@ Commuter Alerts: Sends notifications about expected delays and alternative route
 
 ## Project Objectives
 
-Reduce Travel Uncertainty: Provide commuters with accurate and up-to-date travel time estimates to improve planning.
-Optimize Traffic Management: Support traffic authorities with real-time congestion analysis for better management of the Bay Bridge's traffic flow.
-Enhance Commuter Safety: Alert commuters about dangerous weather or road conditions, promoting safer travel.
-Encourage Sustainable Transportation: Help commuters make informed choices about public transportation to reduce congestion and environmental impact.
+Reduce Travel Uncertainty: Provide commuters with accurate and up-to-date travel time estimates to improve planning.\
+Optimize Traffic Management: Support traffic authorities with real-time congestion analysis for better management of the Bay Bridge's traffic flow.\
+Enhance Commuter Safety: Alert commuters about dangerous weather or road conditions, promoting safer travel.\
+Encourage Sustainable Transportation: Help commuters make informed choices about public transportation to reduce congestion and environmental impact.\
 
 ## Technologies Used
 
